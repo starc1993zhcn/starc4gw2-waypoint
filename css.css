@@ -1,0 +1,52 @@
+.inputPlaceholder {
+	text-align: center;
+	font-size: 2em;
+  }
+  
+  #tabletable {
+	display: none;
+  }
+  
+  #query_tips {
+	text-align: center;
+	font-size: 18px;
+	display: none;
+  }
+  
+  #waypoint {
+	text-align: center;
+	font-size: 16px;
+	display: none;
+  }
+  
+  table.tftable {
+	  font-size: 12px;
+	  color: #333333;
+	  width: 100%;
+	  border-width: 1px;
+	  border-color: #729ea5;
+	  border-collapse: collapse;
+	  text-align: center;
+	}
+  
+	table.tftable th {
+	  font-size: 14px;
+	  background-color: #acc8cc;
+	  border-width: 1px;
+	  padding: 8px;
+	  border-style: solid;
+	  border-color: #729ea5;
+	  text-align: center;
+	}
+  
+	table.tftable tr {
+	  background-color: #ffffff;
+	}
+  
+	table.tftable td {
+	  font-size: 12px;
+	  border-width: 1px;
+	  padding: 8px;
+	  border-style: solid;
+	  border-color: #729ea5;
+	}

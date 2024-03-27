@@ -1,0 +1,5700 @@
+{
+    "waypoint": [
+        {
+            "waypoint_name": "戈瑟玛山谷",
+            "waypoint_code": "[&BBsMAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "戈瑟玛山谷",
+            "waypoint_pinyin": "gesemashangu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鲜血要塞",
+            "waypoint_code": "[&BBsMAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "戈瑟玛山谷",
+            "waypoint_pinyin": "xianxueyaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "达拉达森林",
+            "waypoint_code": "[&BA4MAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "戈瑟玛山谷",
+            "waypoint_pinyin": "daladasenlin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "战争丘陵",
+            "waypoint_code": "[&BPgLAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "戈瑟玛山谷",
+            "waypoint_pinyin": "zhanzhengqiuling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黑烟壁垒",
+            "waypoint_code": "[&BK0DAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "heiyanbilei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "统领",
+            "waypoint_code": "[&BK0DAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "tongling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "凛之废墟",
+            "waypoint_code": "[&BKwDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "linzhifeixu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "纪念",
+            "waypoint_code": "[&BKYDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "jinian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "工厂区",
+            "waypoint_code": "[&BKcDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "gongchangqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "底耶沙大门",
+            "waypoint_code": "[&BKgDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "diyeshadamen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北风之湖",
+            "waypoint_code": "[&BKkDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "beifengzhihu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "孤斗士",
+            "waypoint_code": "[&BKQDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "gudoushi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "聚集地",
+            "waypoint_code": "[&BKUDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "jujidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "诺兰尼闹鬼地",
+            "waypoint_code": "[&BCkHAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "nuolanninaoguidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灾祸",
+            "waypoint_code": "[&BKoDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "zaihuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "英雄区",
+            "waypoint_code": "[&BKsDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "yingxiongqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "废料场",
+            "waypoint_code": "[&BDcEAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "黑烟壁垒",
+            "waypoint_pinyin": "feiliaochang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黎明庄园",
+            "waypoint_code": "[&BJoDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "limingzhuangyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "古门",
+            "waypoint_code": "[&BF4BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "gumen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "屠夫区",
+            "waypoint_code": "[&BF8BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "tufuqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "夏拉迪斯营地",
+            "waypoint_code": "[&BGABAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "xialadisiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "损毁之墙",
+            "waypoint_code": "[&BGEBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "sunhuizhiqiang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "焚炉",
+            "waypoint_code": "[&BGIBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "fenlu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奈姆斯林地",
+            "waypoint_code": "[&BGMBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "naimusilindi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泻水",
+            "waypoint_code": "[&BGQBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "xieshui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "死人岩",
+            "waypoint_code": "[&BMkDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "sirenyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "红刃作坊",
+            "waypoint_code": "[&BMYDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "hongrenzuofang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "圣所",
+            "waypoint_code": "[&BMUDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "shengsuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血崖",
+            "waypoint_code": "[&BMQDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "xueya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "洛汉圣泉",
+            "waypoint_code": "[&BNwAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "luohanshengquan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "纳格林",
+            "waypoint_code": "[&BN0AAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "nagelin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "诺兰",
+            "waypoint_code": "[&BN4AAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "nuolan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黑刃",
+            "waypoint_code": "[&BEIEAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "heiren",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血锯作坊",
+            "waypoint_code": "[&BNsAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "xuejuzuofang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "底耶沙高地",
+            "waypoint_code": "[&BNoAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "diyeshagaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "诅咒泥地",
+            "waypoint_code": "[&BNoAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "zuzhounidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "夏尔之门避难所",
+            "waypoint_code": "[&BNkAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "底耶沙高地",
+            "waypoint_pinyin": "xiaerzhimenbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "潮爪",
+            "waypoint_code": "[&BOIBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "chaozhao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血鳍湖",
+            "waypoint_code": "[&BOMBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "xueqihu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "派肯遗迹",
+            "waypoint_code": "[&BOQBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "paikenyiji",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "战犬村",
+            "waypoint_code": "[&BOUBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "zhanquancun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "恶徒",
+            "waypoint_code": "[&BOYBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "etu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鳞爪村",
+            "waypoint_code": "[&BOcBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "linzhaocun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亮皮营地",
+            "waypoint_code": "[&BOgBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "liangpiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "钢铁平原",
+            "waypoint_code": "[&BOkBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "gangtiepingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烙印哨站营地",
+            "waypoint_code": "[&BOkBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "laoyinshaozhanyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "观火营地",
+            "waypoint_code": "[&BO0BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "guanhuoyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "壁垒",
+            "waypoint_code": "[&BOwBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "bilei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "兽牙星镇",
+            "waypoint_code": "[&BOsBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "shouyaxingzhen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "毒蛇溪谷",
+            "waypoint_code": "[&BOoBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "dushexigu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "格罗斯托栅栏",
+            "waypoint_code": "[&BO8BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "geluosituozhalan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荒林",
+            "waypoint_code": "[&BO4BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "钢铁平原",
+            "waypoint_pinyin": "huanglin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "断牙",
+            "waypoint_code": "[&BBoCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "duanya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "浩劫",
+            "waypoint_code": "[&BBsCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "haojie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "萨提",
+            "waypoint_code": "[&BBYCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "sati",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "生铁",
+            "waypoint_code": "[&BBcCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "shengtie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "狂风指挥所",
+            "waypoint_code": "[&BBgCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "kuangfengzhihuisuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "蜿蜒",
+            "waypoint_code": "[&BB8CAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "wanyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "无望",
+            "waypoint_code": "[&BCMCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "wuwang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雪岭营",
+            "waypoint_code": "[&BCECAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "xuelingying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "锈碗",
+            "waypoint_code": "[&BB4CAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "xiuwan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰矛",
+            "waypoint_code": "[&BCACAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "bingmao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "叛变者",
+            "waypoint_code": "[&BB0CAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "panbianzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯莫",
+            "waypoint_code": "[&BCUCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "simo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯内科兵营",
+            "waypoint_code": "[&BCQCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "sineikebingying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沃格斯要塞",
+            "waypoint_code": "[&BCICAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "wogesiyaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维迪乌斯兵营",
+            "waypoint_code": "[&BBwCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "weidiwusibingying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "断离缺口",
+            "waypoint_code": "[&BBkCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "duanliquekou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "炎心高地",
+            "waypoint_code": "[&BCYCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "yanxingaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "守护者",
+            "waypoint_code": "[&BCYCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "shouhuzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烈焰壁垒",
+            "waypoint_code": "[&BEAFAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "炎心高地",
+            "waypoint_pinyin": "lieyanbilei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "红隼",
+            "waypoint_code": "[&BD0EAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "hongsun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "堕落天使要塞",
+            "waypoint_code": "[&BFEBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "duoluotianshiyaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "废墟原野",
+            "waypoint_code": "[&BNUAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "feixuyuanye",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "至高",
+            "waypoint_code": "[&BNUAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "zhigao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亡刃的哨站",
+            "waypoint_code": "[&BNQAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "wangrendeshaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "无望之门",
+            "waypoint_code": "[&BFABAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "wuwangzhimen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "观测者",
+            "waypoint_code": "[&BDwEAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "guancezhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "怒牙哨站",
+            "waypoint_code": "[&BEwBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "nuyashaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "秃鹰",
+            "waypoint_code": "[&BE0BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "tuying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯克尔营地",
+            "waypoint_code": "[&BEoBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "sikeeryingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈里特矿井",
+            "waypoint_code": "[&BEsBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "halitekuangjing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "吞血哨站残骸",
+            "waypoint_code": "[&BE4BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "tunxueshaozhancanhai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "食人魔之路",
+            "waypoint_code": "[&BE8BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "shirenmozhilu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鹰门",
+            "waypoint_code": "[&BNMAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "yingmen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阴晦",
+            "waypoint_code": "[&BNcAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "yinhui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泰勒营地",
+            "waypoint_code": "[&BNYAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "taileyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破雷",
+            "waypoint_code": "[&BD4EAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "polei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "罗斯科营地",
+            "waypoint_code": "[&BNgAAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "废墟原野",
+            "waypoint_pinyin": "luosikeyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烙印之景",
+            "waypoint_code": "[&BAQCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "laoyinzhijing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "裂脊草原",
+            "waypoint_code": "[&BAUCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "liejicaoyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "劫难庇护所",
+            "waypoint_code": "[&BAUCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "jienanbihusuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "裂齿王座",
+            "waypoint_code": "[&BAICAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "liechiwangzuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "燃灼",
+            "waypoint_code": "[&BAMCAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "ranzhuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "伦克栅栏",
+            "waypoint_code": "[&BAACAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "lunkezhalan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡伦达之地",
+            "waypoint_code": "[&BAECAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "kalundazhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荒原",
+            "waypoint_code": "[&BP4BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "huangyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "守护石",
+            "waypoint_code": "[&BP8BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "shouhushi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "琪纳堡",
+            "waypoint_code": "[&BFADAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "qinabao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破浪堡",
+            "waypoint_code": "[&BFEDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "polangbao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灼热盆地",
+            "waypoint_code": "[&BE4DAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "zhuorependi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "加斯托山峡",
+            "waypoint_code": "[&BE8DAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "jiasituoshanxia",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "最后的威士忌酒吧",
+            "waypoint_code": "[&BPkBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "zuihoudeweishijijiuba",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "图莫克",
+            "waypoint_code": "[&BPsBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "tumoke",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "铁眼",
+            "waypoint_code": "[&BPoBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "tieyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "贝亨",
+            "waypoint_code": "[&BP0BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "beiheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "孪生姐妹",
+            "waypoint_code": "[&BPwBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "luanshengjiemei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烟尘之路",
+            "waypoint_code": "[&BFIDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "裂脊草原",
+            "waypoint_pinyin": "yanchenzhilu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿什福德平原",
+            "waypoint_code": "[&BJkDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "ashifudepingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灵魂猎手营",
+            "waypoint_code": "[&BJkDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "linghunlieshouying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德西姆斯据地",
+            "waypoint_code": "[&BJgDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "deximusijudi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "相位",
+            "waypoint_code": "[&BMgDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "xiangwei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "钳爪",
+            "waypoint_code": "[&BMcDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "qianzhao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿多利亚",
+            "waypoint_code": "[&BIUBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "aduoliya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿什福德",
+            "waypoint_code": "[&BIQBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "ashifude",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "坦帕斯点",
+            "waypoint_code": "[&BIMBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "tanpasidian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "殉难者",
+            "waypoint_code": "[&BIIBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "xunnanzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灰钢军械库",
+            "waypoint_code": "[&BIEBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "huigangjunxieku",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烟囱镇",
+            "waypoint_code": "[&BIABAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "yancongzhen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维尔之门",
+            "waypoint_code": "[&BH8BAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "weierzhimen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "弗里塔斯",
+            "waypoint_code": "[&BJcDAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "fulitasi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "钢铁码头船厂",
+            "waypoint_code": "[&BIoBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "gangtiematouchuanchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿斯卡隆墓穴",
+            "waypoint_code": "[&BIYBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "asikalongmuxue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿斯卡隆城",
+            "waypoint_code": "[&BIcBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "asikalongcheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "望崖塔",
+            "waypoint_code": "[&BIgBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "wangyata",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "裂暮眺望台",
+            "waypoint_code": "[&BIkBAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "liemutiaowangtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "朗玛庄园",
+            "waypoint_code": "[&BPgGAAA=]",
+            "map_area": "阿斯卡隆",
+            "map_name": "阿什福德平原",
+            "waypoint_pinyin": "langmazhuangyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "淡盐水",
+            "waypoint_code": "[&BM4BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "danyanshui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "蔷薇堡垒",
+            "waypoint_code": "[&BLMDAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "qiangweibaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泥沼",
+            "waypoint_code": "[&BLQDAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "nizhao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旱地村庄",
+            "waypoint_code": "[&BE0DAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "handicunzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黑天",
+            "waypoint_code": "[&BM0BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "heitian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿利姆",
+            "waypoint_code": "[&BM8BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "alimu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "火蛙",
+            "waypoint_code": "[&BMwBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "huowa",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破碎海岸",
+            "waypoint_code": "[&BNABAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "posuihaian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "噗噜努",
+            "waypoint_code": "[&BNEBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "pulunu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "大洋峡",
+            "waypoint_code": "[&BMkBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "dayangxia",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "水居托神圣领地",
+            "waypoint_code": "[&BMgBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "shuijutuoshenshenglingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盐溢",
+            "waypoint_code": "[&BMcBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "yanyi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "布拉吉农场",
+            "waypoint_code": "[&BMYBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "bulajinongchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡登斯堡垒",
+            "waypoint_code": "[&BMUBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "kadengsibaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "欧瓦幽谷",
+            "waypoint_code": "[&BMQBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "ouwayougu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "闪萤沼泽",
+            "waypoint_code": "[&BMsBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "shanyingzhaoze",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "透德之头",
+            "waypoint_code": "[&BMsBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "toudezhitou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "佛瓦",
+            "waypoint_code": "[&BMoBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "闪萤沼泽",
+            "waypoint_pinyin": "fowa",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "断箭",
+            "waypoint_code": "[&BNACAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "duanjian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "永恒熔炉",
+            "waypoint_code": "[&BEIFAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "yonghengronglu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黑暗溪谷",
+            "waypoint_code": "[&BMcCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "heianxigu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "格沃冉",
+            "waypoint_code": "[&BMgCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "geworan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "准则",
+            "waypoint_code": "[&BMkCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "zhunze",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破火堡垒",
+            "waypoint_code": "[&BMoCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "pohuobaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "特异悖论",
+            "waypoint_code": "[&BMsCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "teyibeilun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "吟游诗人",
+            "waypoint_code": "[&BMwCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "yinyoushiren",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "漩涡",
+            "waypoint_code": "[&BM0CAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "xuanwo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "漩涡山",
+            "waypoint_code": "[&BM4CAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "xuanwoshan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灰烬",
+            "waypoint_code": "[&BM4CAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "huijin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿瓦兰",
+            "waypoint_code": "[&BM8CAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "awalan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "铁拳",
+            "waypoint_code": "[&BNMCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "tiequan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "欧文岛",
+            "waypoint_code": "[&BNICAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "ouwendao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "审判",
+            "waypoint_code": "[&BNUCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "shenpan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "牛辔岛",
+            "waypoint_code": "[&BNECAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "niupeidao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旧锤据点",
+            "waypoint_code": "[&BNQCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "jiuchuijudian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "岩浆",
+            "waypoint_code": "[&BNYCAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "漩涡山",
+            "waypoint_pinyin": "yanjiang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "占星庭院",
+            "waypoint_code": "[&BBQEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "zhanxingtingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "港口",
+            "waypoint_code": "[&BAcFAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "gangkou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "度量庭院",
+            "waypoint_code": "[&BBMEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "duliangtingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "拉塔索姆",
+            "waypoint_code": "[&BLYEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "latasuomu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "会计学",
+            "waypoint_code": "[&BLYEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "kuaijixue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "学徒",
+            "waypoint_code": "[&BLcEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "xuetu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "魔术庭院",
+            "waypoint_code": "[&BLQEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "moshutingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "孵化",
+            "waypoint_code": "[&BLUEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "fuhua",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "研究",
+            "waypoint_code": "[&BLgEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "yanjiu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "辅助",
+            "waypoint_code": "[&BLkEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "拉塔索姆",
+            "waypoint_pinyin": "fuzhu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "圣林之地",
+            "waypoint_code": "[&BLsEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "圣林之地",
+            "waypoint_pinyin": "shenglinzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "审计平台",
+            "waypoint_code": "[&BLsEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "圣林之地",
+            "waypoint_pinyin": "shenjipingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "上林区",
+            "waypoint_code": "[&BLoEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "圣林之地",
+            "waypoint_pinyin": "shanglinqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡勒顿",
+            "waypoint_code": "[&BBIEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "圣林之地",
+            "waypoint_pinyin": "kaledun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "罗南",
+            "waypoint_code": "[&BLwEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "圣林之地",
+            "waypoint_pinyin": "luonan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "姆洛特坑洞",
+            "waypoint_code": "[&BHUAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "muluotekengdong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "炽天使观察者",
+            "waypoint_code": "[&BGIAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "chitianshiguanchazhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盗匪荒地",
+            "waypoint_code": "[&BGMAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "daofeihuangdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "城东",
+            "waypoint_code": "[&BGAAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "chengdong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "布里斯班野地",
+            "waypoint_code": "[&BF4AAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "bulisibanyedi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "隧道",
+            "waypoint_code": "[&BF4AAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "suidao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "山坡",
+            "waypoint_code": "[&BF8AAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "shanpo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "警戒源",
+            "waypoint_code": "[&BFwAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "jingjieyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维登",
+            "waypoint_code": "[&BF0AAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "weideng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "三心",
+            "waypoint_code": "[&BGQAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "sanxin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "布里提尼",
+            "waypoint_code": "[&BGEAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "bulitini",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "幽腾",
+            "waypoint_code": "[&BHYAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "youteng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "乌塔超魔会",
+            "waypoint_code": "[&BGUAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "wutachaomohui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "空间关系实验室",
+            "waypoint_code": "[&BPkGAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "布里斯班野地",
+            "waypoint_pinyin": "kongjianguanxishiyanshi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "贪吃托",
+            "waypoint_code": "[&BLIEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "tanchituo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "幸存者营地",
+            "waypoint_code": "[&BEYAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "xingcunzheyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "子午线",
+            "waypoint_code": "[&BEcAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "ziwuxian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "度量领域",
+            "waypoint_code": "[&BEgAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "dulianglingyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "渴求之地",
+            "waypoint_code": "[&BEgAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "keqiuzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "秘行托领地",
+            "waypoint_code": "[&BLEEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "mixingtuolingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "水能开发团",
+            "waypoint_code": "[&BPcEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "shuinengkaifatuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "动脉角",
+            "waypoint_code": "[&BLMEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "dongmaijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "古代魔像铸造厂",
+            "waypoint_code": "[&BK4EAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "gudaimoxiangzhuzaochang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "海湾",
+            "waypoint_code": "[&BK8EAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "haiwan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "己烷提纯实验室",
+            "waypoint_code": "[&BEUAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "jiwantichunshiyanshi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "医护避难所",
+            "waypoint_code": "[&BEQAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "yihubinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "拉纳着陆点设施",
+            "waypoint_code": "[&BEMAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "lanazhuoludiansheshi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿克野原",
+            "waypoint_code": "[&BEIAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "akeyeyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "杰兹塔瀑布",
+            "waypoint_code": "[&BEEAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "jiezitapubu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "索兰德拉",
+            "waypoint_code": "[&BEAAAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "suolandela",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "蚁丘",
+            "waypoint_code": "[&BLAEAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "度量领域",
+            "waypoint_pinyin": "yiqiu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯雷弗",
+            "waypoint_code": "[&BP4FAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "sileifu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雄狮守卫驿站",
+            "waypoint_code": "[&BEwDAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "xiongshishouweiyizhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暮光之根",
+            "waypoint_code": "[&BEEFAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "muguangzhigen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "摩根",
+            "waypoint_code": "[&BDUBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "mogen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "星空村",
+            "waypoint_code": "[&BDQBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "xingkongcun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维其米尔",
+            "waypoint_code": "[&BEEBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "weiqimier",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "蛇妖之祸避难所",
+            "waypoint_code": "[&BEABAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "sheyaozhihuobinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "守望者树林",
+            "waypoint_code": "[&BEIBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "shouwangzheshulin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡勒顿之森",
+            "waypoint_code": "[&BDoBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "kaledunzhisen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "玛邦",
+            "waypoint_code": "[&BDoBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "mabang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡瑟尔镇",
+            "waypoint_code": "[&BDsBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "kaseerzhen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡勒顿避难所",
+            "waypoint_code": "[&BDwBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "kaledunbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泰坦阶梯",
+            "waypoint_code": "[&BD0BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "taitanjieti",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "星空堡垒",
+            "waypoint_code": "[&BDYBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "xingkongbaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "拾穗者峡谷",
+            "waypoint_code": "[&BDcBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "shisuizhexiagu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "布里迪格瞭望台",
+            "waypoint_code": "[&BDgBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "bulidigeliaowangtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "山际",
+            "waypoint_code": "[&BDkBAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "shanji",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "法利亚斯村",
+            "waypoint_code": "[&BD4BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "faliyasicun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "安文村",
+            "waypoint_code": "[&BD8BAAA=]",
+            "map_area": "迈古玛丛林（晦暗海岸）",
+            "map_name": "卡勒顿之森",
+            "waypoint_pinyin": "anwencun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "红叶撤退点",
+            "waypoint_code": "[&BK8JAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "多里克湖",
+            "waypoint_pinyin": "hongyechetuidian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "湖边集市",
+            "waypoint_code": "[&BLQJAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "多里克湖",
+            "waypoint_pinyin": "hubianjishi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "多里克湖",
+            "waypoint_code": "[&BK0JAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "多里克湖",
+            "waypoint_pinyin": "duolikehu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "多里克平台",
+            "waypoint_code": "[&BK0JAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "多里克湖",
+            "waypoint_pinyin": "duolikepingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "机场",
+            "waypoint_code": "[&BCAJAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门机场",
+            "waypoint_pinyin": "jichang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南阳海湾",
+            "waypoint_code": "[&BNcGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "nanyanghaiwan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "喀壳营地",
+            "waypoint_code": "[&BNcGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "kakeyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "欧文避难所",
+            "waypoint_code": "[&BNgGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "ouwenbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荣誉浪尖",
+            "waypoint_code": "[&BNIGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "rongyulangjian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "齐尔前哨",
+            "waypoint_code": "[&BNwGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "qierqianshao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雄狮岬角",
+            "waypoint_code": "[&BNAGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "xiongshijiajiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "明珠屿",
+            "waypoint_code": "[&BNUGAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "南阳海湾",
+            "waypoint_pinyin": "mingzhuyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "杰拉克",
+            "waypoint_code": "[&BK8BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "jielake",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡斯特沃",
+            "waypoint_code": "[&BK4BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "kasitewo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亚盛海角",
+            "waypoint_code": "[&BKMBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "yashenghaijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "轻语之意",
+            "waypoint_code": "[&BLABAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "qingyuzhiyi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "死路",
+            "waypoint_code": "[&BAsEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "silu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血潮海岸",
+            "waypoint_code": "[&BKoBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "xuechaohaian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "峡口驻守站",
+            "waypoint_code": "[&BKoBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "xiakouzhushouzhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "失事",
+            "waypoint_code": "[&BKsBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "shishi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "笑鸥",
+            "waypoint_code": "[&BKgBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "xiaoou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "结界营地",
+            "waypoint_code": "[&BKkBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "jiejieyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "湿地守卫避难所",
+            "waypoint_code": "[&BKYBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "shidishouweibinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雷曼达盐沼",
+            "waypoint_code": "[&BKcBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "leimandayanzhao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "悲音",
+            "waypoint_code": "[&BKQBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "beiyin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暴风崖",
+            "waypoint_code": "[&BKUBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "baofengya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沼岸营地",
+            "waypoint_code": "[&BKwBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "zhaoanyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "悲恸",
+            "waypoint_code": "[&BK0BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "血潮海岸",
+            "waypoint_pinyin": "beitong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "商人广场",
+            "waypoint_code": "[&BBAEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "shangrenguangchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "狮子拱门",
+            "waypoint_code": "[&BBEEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "shizigongmen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "星门广场",
+            "waypoint_code": "[&BBEEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "xingmenguangchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "怪石岩架",
+            "waypoint_code": "[&BC0EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "guaishiyanjia",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "公会断崖",
+            "waypoint_code": "[&BA0EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "gonghuiduanya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "准将区",
+            "waypoint_code": "[&BAwEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "zhunjiangqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "利爪岛运输站",
+            "waypoint_code": "[&BA8EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "lizhaodaoyunshuzhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血岸区",
+            "waypoint_code": "[&BA4EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "xueanqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "避风港",
+            "waypoint_code": "[&BC8EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "bifenggang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "西区",
+            "waypoint_code": "[&BC4EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "xiqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "东区",
+            "waypoint_code": "[&BDEEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "dongqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "马里纳堡垒",
+            "waypoint_code": "[&BDAEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "malinabaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "远岸区",
+            "waypoint_code": "[&BDMEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "yuananqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "洞窟",
+            "waypoint_code": "[&BDIEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "狮子拱门",
+            "waypoint_pinyin": "dongku",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "狮桥",
+            "waypoint_code": "[&BJsDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shiqiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血山",
+            "waypoint_code": "[&BI0BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "xueshan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鲜血战场",
+            "waypoint_code": "[&BAIEAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "xianxuezhanchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旅行者山谷",
+            "waypoint_code": "[&BN8AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "lüxingzheshangu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "石卫门",
+            "waypoint_code": "[&BOAAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shiweimen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨窟",
+            "waypoint_code": "[&BOEAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "juku",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "欧格斯",
+            "waypoint_code": "[&BOIAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "ougesi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "丰饶之地",
+            "waypoint_code": "[&BOMAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "fengraozhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "誓言海岸",
+            "waypoint_code": "[&BOQAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shiyanhaian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "甘达拉战区",
+            "waypoint_code": "[&BJABAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "gandalazhanqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北部原野",
+            "waypoint_code": "[&BJABAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "beibuyuanye",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "苹果园",
+            "waypoint_code": "[&BJEBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "pingguoyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "守夜人要塞",
+            "waypoint_code": "[&BJIBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shouyerenyaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰门",
+            "waypoint_code": "[&BJMBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "bingmen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿姆顿",
+            "waypoint_code": "[&BJQBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "amudun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雪盲",
+            "waypoint_code": "[&BMwDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "xuemang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "双桅帆船",
+            "waypoint_code": "[&BM0DAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shuangweifanchuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "尼波平台",
+            "waypoint_code": "[&BI4BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "nibopingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "枢纽避难所",
+            "waypoint_code": "[&BO0AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "shuniubinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿斯卡隆殖民地",
+            "waypoint_code": "[&BI8BAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "asikalongzhimindi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "原初避难所",
+            "waypoint_code": "[&BIsBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "yuanchubinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "塔拉捷",
+            "waypoint_code": "[&BIwBAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "talajie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冬季避难所",
+            "waypoint_code": "[&BO4AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "甘达拉战区",
+            "waypoint_pinyin": "dongjibinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "瑟拉波斯",
+            "waypoint_code": "[&BBIAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "selabosi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "临渊避难所",
+            "waypoint_code": "[&BBMAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "linyuanbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "凯席斯山",
+            "waypoint_code": "[&BBAAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "kaixisishan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "利维坦",
+            "waypoint_code": "[&BBAAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "liweitan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暗伤",
+            "waypoint_code": "[&BBEAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "anshang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暗影之心据点",
+            "waypoint_code": "[&BAwAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "anyingzhixinjudian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "埃里科贸易站",
+            "waypoint_code": "[&BAoAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "ailikemaoyizhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德兰",
+            "waypoint_code": "[&BAgAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "delan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈拉坎",
+            "waypoint_code": "[&BAYAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "halakan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旅居者",
+            "waypoint_code": "[&BAcAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "lüjuzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "霸主",
+            "waypoint_code": "[&BAQAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "bazhu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "萨尔玛堡垒",
+            "waypoint_code": "[&BAMAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "saermabaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "土木营地",
+            "waypoint_code": "[&BLkDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "tumuyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灰蹄营地",
+            "waypoint_code": "[&BBYAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "huitiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "洞穴据点营地",
+            "waypoint_code": "[&BBUAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "dongxuejudianyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "凯席斯避难所",
+            "waypoint_code": "[&BBQAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "kaixisibinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "裂口",
+            "waypoint_code": "[&BLoDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "凯席斯山",
+            "waypoint_pinyin": "liekou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "古兰斯",
+            "waypoint_code": "[&BCQDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "gulansi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "克米尔",
+            "waypoint_code": "[&BCUDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "kemier",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "丽莎",
+            "waypoint_code": "[&BCYDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "lisha",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "梅兰朵",
+            "waypoint_code": "[&BCcDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "meilanduo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德薇娜",
+            "waypoint_code": "[&BCMDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "deweina",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巴萨泽",
+            "waypoint_code": "[&BCgDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "basaze",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "神佑之城",
+            "waypoint_code": "[&BCkDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "shenyouzhicheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "皇宫",
+            "waypoint_code": "[&BCkDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "huanggong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "内阁",
+            "waypoint_code": "[&BP4EAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "neige",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "萨尔玛",
+            "waypoint_code": "[&BC4DAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "saerma",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奥珊",
+            "waypoint_code": "[&BC0DAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "aoshan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "皇冠高阁",
+            "waypoint_code": "[&BCwDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "huangguangaoge",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鲁雷克顿",
+            "waypoint_code": "[&BCsDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "luleikedun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "平民区",
+            "waypoint_code": "[&BCoDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "神佑之城",
+            "waypoint_pinyin": "pingminqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "炽天使平台",
+            "waypoint_code": "[&BKcAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "chitianshipingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盾崖",
+            "waypoint_code": "[&BKYAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "dunya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "牧神",
+            "waypoint_code": "[&BKUAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "mushen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灰格里塔",
+            "waypoint_code": "[&BKkAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "huigelita",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维乔娜集结点",
+            "waypoint_code": "[&BKgAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "weiqiaonajijiedian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿卡利安",
+            "waypoint_code": "[&BMMAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "akalian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "夜幕守卫",
+            "waypoint_code": "[&BKoAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "yemushouwei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德美特拉",
+            "waypoint_code": "[&BKsAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "demeitela",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈拉希腹地",
+            "waypoint_code": "[&BKwAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "halaxifudi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "复苏野营",
+            "waypoint_code": "[&BKwAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "fusuyeying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "路障营地",
+            "waypoint_code": "[&BK0AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "luzhangyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "切布莎眺望台",
+            "waypoint_code": "[&BK4AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "qiebushatiaowangtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "桥头哨站",
+            "waypoint_code": "[&BK8AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "qiaotoushaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "枢纽营地",
+            "waypoint_code": "[&BLAAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "shuniuyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "偶蹄",
+            "waypoint_code": "[&BLEAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "outi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿卡",
+            "waypoint_code": "[&BLIAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "哈拉希腹地",
+            "waypoint_pinyin": "aka",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "夏摩尔",
+            "waypoint_code": "[&BO8AAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "xiamoer",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "科瑞塔",
+            "waypoint_code": "[&BPgAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "keruita",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "欧琼的伐木场",
+            "waypoint_code": "[&BPkAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "ouqiongdefamuchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "渡口",
+            "waypoint_code": "[&BPIAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "dukou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "菲尼",
+            "waypoint_code": "[&BPMAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "feini",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "麦田",
+            "waypoint_code": "[&BPAAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "maitian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "女王谷",
+            "waypoint_code": "[&BPEAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "nvwanggu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "要塞",
+            "waypoint_code": "[&BPEAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "yaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泥潭镇",
+            "waypoint_code": "[&BPYAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "nitanzhen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "迷沼避难所",
+            "waypoint_code": "[&BPcAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "mizhaobinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "溪谷",
+            "waypoint_code": "[&BPQAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "xigu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "心木小径营地",
+            "waypoint_code": "[&BPUAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "xinmuxiaojingyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯卡维高原",
+            "waypoint_code": "[&BEUDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "sikaweigaoyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "果园",
+            "waypoint_code": "[&BEQDAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "guoyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "郡守哨站",
+            "waypoint_code": "[&BPsAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "junshoushaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "甲虫郡",
+            "waypoint_code": "[&BPoAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "jiachongjun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "迷神",
+            "waypoint_code": "[&BPwAAAA=]",
+            "map_area": "科瑞塔",
+            "map_name": "女王谷",
+            "waypoint_pinyin": "mishen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盖拉洞窟",
+            "waypoint_code": "[&BKoNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "盖拉洞窟",
+            "waypoint_pinyin": "gailadongxue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "帕克采矿作业区",
+            "waypoint_code": "[&BKoNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "盖拉洞窟",
+            "waypoint_pinyin": "pakecaikuangzuoyequ",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "翠玉支柱",
+            "waypoint_code": "[&BKQNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "盖拉洞窟",
+            "waypoint_pinyin": "cuiyuzhizhu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "勒克桑终点",
+            "waypoint_code": "[&BJkNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "盖拉洞窟",
+            "waypoint_pinyin": "lekesangzhongdian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨兽裂隙",
+            "waypoint_code": "[&BJINAAA=]",
+            "map_area": "凯珊",
+            "map_name": "盖拉洞窟",
+            "waypoint_pinyin": "jushouliexi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卡纳克俱乐部",
+            "waypoint_code": "[&BHoNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "亭石",
+            "waypoint_pinyin": "kanakejulebu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "科瓦德荒野",
+            "waypoint_code": "[&BPkMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "kewadehuangye",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "翠玉之门",
+            "waypoint_code": "[&BPkMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "cuiyuzhimen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "今凯",
+            "waypoint_code": "[&BNQMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "jinkai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "废料场",
+            "waypoint_code": "[&BIsMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "feiliaochang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "风荷",
+            "waypoint_code": "[&BMoMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "fenghe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "克罗帕",
+            "waypoint_code": "[&BMwMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "keluopa",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "陌离村",
+            "waypoint_code": "[&BMcMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "科瓦德荒野",
+            "waypoint_pinyin": "molicun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "青函省",
+            "waypoint_code": "[&BGUNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "青函省",
+            "waypoint_pinyin": "qinghansheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "大悟区",
+            "waypoint_code": "[&BGUNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "青函省",
+            "waypoint_pinyin": "dawuqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "海幽码头",
+            "waypoint_code": "[&BGQNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "青函省",
+            "waypoint_pinyin": "haiyoumatou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "寺院",
+            "waypoint_code": "[&BL8MAAA=]",
+            "map_area": "凯珊",
+            "map_name": "青函省",
+            "waypoint_pinyin": "siyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "村庄",
+            "waypoint_code": "[&BJ4MAAA=]",
+            "map_area": "凯珊",
+            "map_name": "青函省",
+            "waypoint_pinyin": "cunzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "新凯宁城",
+            "waypoint_code": "[&BBkNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "新凯宁城",
+            "waypoint_pinyin": "xinkainingcheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "内阁区",
+            "waypoint_code": "[&BBkNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "新凯宁城",
+            "waypoint_pinyin": "neigequ",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "花园高地",
+            "waypoint_code": "[&BBYNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "新凯宁城",
+            "waypoint_pinyin": "huayuangaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "路嘉帝斯广场",
+            "waypoint_code": "[&BCANAAA=]",
+            "map_area": "凯珊",
+            "map_name": "新凯宁城",
+            "waypoint_pinyin": "lujiadisiguangchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "大道",
+            "waypoint_code": "[&BMYMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "新凯宁城",
+            "waypoint_pinyin": "dadao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亭石",
+            "waypoint_code": "[&BGMNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "亭石",
+            "waypoint_pinyin": "tingshi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰海",
+            "waypoint_code": "[&BPEMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "binghai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "兄弟会",
+            "waypoint_code": "[&BBENAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "xiongdihui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "宣讲者",
+            "waypoint_code": "[&BDsNAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "xuanjiangzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙尽头",
+            "waypoint_code": "[&BKIMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "julongjintou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "翠玉矿洞",
+            "waypoint_code": "[&BKIMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "cuiyukuangdong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "丰收建筑群",
+            "waypoint_code": "[&BKAMAAA=]",
+            "map_area": "凯珊",
+            "map_name": "巨龙尽头",
+            "waypoint_pinyin": "fengshoujianzhuqun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "余烬海湾",
+            "waypoint_code": "[&BF8JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "余烬海湾",
+            "waypoint_pinyin": "yujinhaiwan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "海角",
+            "waypoint_code": "[&BF8JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "余烬海湾",
+            "waypoint_pinyin": "haijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "被困的旅行马戏团",
+            "waypoint_code": "[&BHgJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "余烬海湾",
+            "waypoint_pinyin": "beikundelüxingmaxituan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破碎尾迹",
+            "waypoint_code": "[&BGAJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "余烬海湾",
+            "waypoint_pinyin": "posuiweiji",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "地洞大门",
+            "waypoint_code": "[&BFUJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "余烬海湾",
+            "waypoint_pinyin": "didongdamen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "咽喉深渊",
+            "waypoint_code": "[&BD8JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "血石沼泽",
+            "waypoint_pinyin": "yanhoushenyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "爆炸中心",
+            "waypoint_code": "[&BEEJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "血石沼泽",
+            "waypoint_pinyin": "baozhazhongxin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "血石沼泽",
+            "waypoint_code": "[&BEsJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "血石沼泽",
+            "waypoint_pinyin": "xueshizhaoze",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "守魂者的飞船",
+            "waypoint_code": "[&BEsJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "血石沼泽",
+            "waypoint_pinyin": "shouhunzhedefeichuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "狂热者眺望台",
+            "waypoint_code": "[&BE4JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "血石沼泽",
+            "waypoint_pinyin": "kuangrezhetiaowangtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "梅兰艮勇气号",
+            "waypoint_code": "[&BNUHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "meilangenyongqihao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "遮隐废墟",
+            "waypoint_code": "[&BAEIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "zheyinfeixu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "背叛小径",
+            "waypoint_code": "[&BBwIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "beipanxiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "伊策尔蛙查卡村",
+            "waypoint_code": "[&BOAHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "yiceerwachakacun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "苍翠边界",
+            "waypoint_code": "[&BN4HAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "cangcuibianjie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "空难峰",
+            "waypoint_code": "[&BN4HAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "kongnanfeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "费伦的飞船",
+            "waypoint_code": "[&BO8HAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "feilundefeichuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "契约团营地",
+            "waypoint_code": "[&BAgIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "苍翠边界",
+            "waypoint_pinyin": "qiyuetuanyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奴霍奇蛙特库村",
+            "waypoint_code": "[&BAwIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "nuhuoqiwatekucun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "空战队营地",
+            "waypoint_code": "[&BAAIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "kongzhanduiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "食人魔营地",
+            "waypoint_code": "[&BMwHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "shirenmoyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "密语教团营地",
+            "waypoint_code": "[&BA4IAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "miyujiaotuanyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙通道",
+            "waypoint_code": "[&BIgIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "julongtongdao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "缠藤深渊",
+            "waypoint_code": "[&BPUHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "chantengshenyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "魔径汇流点",
+            "waypoint_code": "[&BPUHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "mojinghuiliudian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "拉塔新城",
+            "waypoint_code": "[&BAMIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "缠藤深渊",
+            "waypoint_pinyin": "lataxincheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "游荡者",
+            "waypoint_code": "[&BNYHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "youdangzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "赤金盆地",
+            "waypoint_code": "[&BMYHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "chijinpendi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "遗忘之都",
+            "waypoint_code": "[&BMYHAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "yiwangzhidu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "查克虫谷",
+            "waypoint_code": "[&BEkIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "chakechonggu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南部守望哨站",
+            "waypoint_code": "[&BAIIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "nanbushouwangshaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北部守望哨站",
+            "waypoint_code": "[&BN0HAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "beibushouwangshaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "东部守望哨站",
+            "waypoint_code": "[&BGwIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "dongbushouwangshaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "西部守望哨站",
+            "waypoint_code": "[&BAYIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "赤金盆地",
+            "waypoint_pinyin": "xibushouwangshaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南部前哨营地",
+            "waypoint_code": "[&BGUIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "nanbuqianshaoyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙阵地",
+            "waypoint_code": "[&BBAIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "julongzhendi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "契约团基地大营",
+            "waypoint_code": "[&BBAIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "qiyuetuanjididaying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南部前线营地",
+            "waypoint_code": "[&BE8IAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "nanbuqianxianyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "契约团基地大营南部",
+            "waypoint_code": "[&BHoIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "qiyuetuanjididayingnanbu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北部前哨营地",
+            "waypoint_code": "[&BAAJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "beibuqianshaoyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙领域北部",
+            "waypoint_code": "[&BK4IAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "julonglingyubeibu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "中部前哨营地",
+            "waypoint_code": "[&BFMIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "zhongbuqianshaoyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北部前线营地",
+            "waypoint_code": "[&BFIIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "beibuqianxianyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙领域南部",
+            "waypoint_code": "[&BFcIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "julonglingyunanbu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙领域中部",
+            "waypoint_code": "[&BJcIAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "julonglingyuzhongbu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "中部前线营地",
+            "waypoint_code": "[&BC4IAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙阵地",
+            "waypoint_pinyin": "zhongbuqianxianyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旱坞岩穴",
+            "waypoint_code": "[&BLoHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "白银荒地",
+            "waypoint_pinyin": "hanwuyanxue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "白银荒地",
+            "waypoint_code": "[&BH8HAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "白银荒地",
+            "waypoint_pinyin": "baiyinhuangdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "决心营地",
+            "waypoint_code": "[&BH8HAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "白银荒地",
+            "waypoint_pinyin": "juexinyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "隐渊",
+            "waypoint_code": "[&BKwHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "白银荒地",
+            "waypoint_pinyin": "yinyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "繁盛之地",
+            "waypoint_code": "[&BHoHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "fanshengzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "干涸高地",
+            "waypoint_code": "[&BIgHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "ganhegaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "复原避难所",
+            "waypoint_code": "[&BIgHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "fuyuanbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "修理站",
+            "waypoint_code": "[&BJcHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "xiulizhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "藤桥",
+            "waypoint_code": "[&BIYHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "tengqiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "干涸高地入口",
+            "waypoint_code": "[&BIAHAAA=]",
+            "map_area": "迈古玛荒野",
+            "map_name": "干涸高地",
+            "waypoint_pinyin": "ganhegaodirukou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "回收营地",
+            "waypoint_code": "[&BO8JAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "海妖平台",
+            "waypoint_pinyin": "huishouyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "海妖平台",
+            "waypoint_code": "[&BO8JAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "海妖平台",
+            "waypoint_pinyin": "haiyaopingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "丽丝峡谷",
+            "waypoint_code": "[&BKoCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "lisixiagu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "联盟",
+            "waypoint_code": "[&BKsCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "lianmeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荒芜凹地",
+            "waypoint_code": "[&BKgCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "huangwuaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "柱廊",
+            "waypoint_code": "[&BKkCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "zhulang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "瘟疫拱门",
+            "waypoint_code": "[&BK4CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "wenyigongmen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "低语",
+            "waypoint_code": "[&BK8CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "diyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暴风雨",
+            "waypoint_code": "[&BLACAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "baofengyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "反法术",
+            "waypoint_code": "[&BLECAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "fanfashu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "马尔科之跃",
+            "waypoint_code": "[&BKwCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "maerkezhiyue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雷恩",
+            "waypoint_code": "[&BKwCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "leien",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "丽莎",
+            "waypoint_code": "[&BK0CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "lisha",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "多里克",
+            "waypoint_code": "[&BKcCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "duolike",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "帕加",
+            "waypoint_code": "[&BKYCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "pajia",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "光芒",
+            "waypoint_code": "[&BLICAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "马尔科之跃",
+            "waypoint_pinyin": "guangmang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沉船岩",
+            "waypoint_code": "[&BOQGAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "chenchuanyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亚拉",
+            "waypoint_code": "[&BCADAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "yala",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "影落城堡",
+            "waypoint_code": "[&BCEDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "yingluochengbao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "弑梦",
+            "waypoint_code": "[&BCIDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "shimeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "诅咒海岸",
+            "waypoint_code": "[&BB4DAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "zuzhouhaian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "干预者",
+            "waypoint_code": "[&BB4DAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "ganyuzhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "锚地",
+            "waypoint_code": "[&BB8DAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "maodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "追猎者小径",
+            "waypoint_code": "[&BBcDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "zhuiliezhexiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "研发所",
+            "waypoint_code": "[&BBgDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "yanfasuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "忏悔者小径",
+            "waypoint_code": "[&BBkDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "chanhuizhexiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盖夫伯恩",
+            "waypoint_code": "[&BBoDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "gaifuboen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "新翠",
+            "waypoint_code": "[&BBsDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "xincui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "庇护之门",
+            "waypoint_code": "[&BBwDAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "bihuzhimen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "乔法斯",
+            "waypoint_code": "[&BB0DAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "诅咒海岸",
+            "waypoint_pinyin": "qiaofasi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "恐怖浅海",
+            "waypoint_code": "[&BOUGAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "kongbuqianhai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哨卫",
+            "waypoint_code": "[&BPsCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "shaowei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "基座林",
+            "waypoint_code": "[&BFgGAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "jizuolin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "幽径",
+            "waypoint_code": "[&BFkGAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "youjing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "集结",
+            "waypoint_code": "[&BNIEAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "jijie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "征服码头",
+            "waypoint_code": "[&BPYCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "zhengfumatou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "孤寂营地",
+            "waypoint_code": "[&BPcCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "gujiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "薄暮钟",
+            "waypoint_code": "[&BPICAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "bomuzhong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "皇家广场",
+            "waypoint_code": "[&BPMCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "huangjiaguangchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "铜爪",
+            "waypoint_code": "[&BPQCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "tongzhao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "美术馆",
+            "waypoint_code": "[&BPUCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "meishuguan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "浩劫海峡",
+            "waypoint_code": "[&BO4CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "haojiehaixia",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "三体堡垒",
+            "waypoint_code": "[&BO4CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "santibaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荆棘小径",
+            "waypoint_code": "[&BO8CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "jingjixiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雷首",
+            "waypoint_code": "[&BPACAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "leishou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "破碎岛",
+            "waypoint_code": "[&BPECAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "posuidao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "辉煌胜利",
+            "waypoint_code": "[&BPoCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "huihuangshengli",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "席娜里斯",
+            "waypoint_code": "[&BPkCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "xinalisi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "绝壁",
+            "waypoint_code": "[&BPgCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "juebi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "烽火台",
+            "waypoint_code": "[&BO0CAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "fenghuotai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荆棘林道",
+            "waypoint_code": "[&BOwCAAA=]",
+            "map_area": "欧尔遗迹",
+            "map_name": "浩劫海峡",
+            "waypoint_pinyin": "jingjilindao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "坠龙之地",
+            "waypoint_code": "[&BN4LAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "坠龙之地",
+            "waypoint_pinyin": "zhuilongzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "契约团指挥部",
+            "waypoint_code": "[&BN4LAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "坠龙之地",
+            "waypoint_pinyin": "qiyuetuanzhihuibu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "地下世界",
+            "waypoint_code": "[&BNELAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "坠龙之地",
+            "waypoint_pinyin": "dixiashijie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "梅兰朵失落领域",
+            "waypoint_code": "[&BNILAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "坠龙之地",
+            "waypoint_pinyin": "meilanduoshiluolingyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "焚林之地",
+            "waypoint_code": "[&BOYLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "坠龙之地",
+            "waypoint_pinyin": "fenlinzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "翻造教堂",
+            "waypoint_code": "[&BJkLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "亚哈悬崖",
+            "waypoint_pinyin": "fanzaojiaotang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亚坦迪村庄",
+            "waypoint_code": "[&BH4LAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "亚哈悬崖",
+            "waypoint_pinyin": "yatandicunzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亚哈悬崖",
+            "waypoint_code": "[&BIMLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "亚哈悬崖",
+            "waypoint_pinyin": "yahaxuanya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灵魂仇怨",
+            "waypoint_code": "[&BIMLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "亚哈悬崖",
+            "waypoint_pinyin": "linghunchouyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "梵塔小径",
+            "waypoint_code": "[&BJMLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "亚哈悬崖",
+            "waypoint_pinyin": "fantaxiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿皮兹米克领地",
+            "waypoint_code": "[&BFALAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "克南领域",
+            "waypoint_pinyin": "apizimikelingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "克南领域",
+            "waypoint_code": "[&BFcLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "克南领域",
+            "waypoint_pinyin": "kenanlingyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "盟军营地",
+            "waypoint_code": "[&BFcLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "克南领域",
+            "waypoint_pinyin": "mengjunyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "安尼奥格尔营地",
+            "waypoint_code": "[&BCULAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙掠群岛",
+            "waypoint_pinyin": "anniaogeeryingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沙掠群岛",
+            "waypoint_code": "[&BEMLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙掠群岛",
+            "waypoint_pinyin": "shaluequndao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿索尔玛",
+            "waypoint_code": "[&BEMLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙掠群岛",
+            "waypoint_pinyin": "asuoerma",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "伊斯坦领域",
+            "waypoint_code": "[&BPoKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊斯坦领域",
+            "waypoint_pinyin": "yisitanlingyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "吸粉",
+            "waypoint_code": "[&BPoKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊斯坦领域",
+            "waypoint_pinyin": "xifen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "占星台",
+            "waypoint_code": "[&BPoKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊斯坦领域",
+            "waypoint_pinyin": "zhanxingtai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "查隆码头",
+            "waypoint_code": "[&BAkLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊斯坦领域",
+            "waypoint_pinyin": "chalongmatou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黎明矿坑",
+            "waypoint_code": "[&BBoLAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊斯坦领域",
+            "waypoint_pinyin": "limingkuangkeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "维金宫殿",
+            "waypoint_code": "[&BO0KAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "weijingongdian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "市场废墟",
+            "waypoint_code": "[&BHQKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "shichangfeixu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "农耕学院",
+            "waypoint_code": "[&BA8KAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "nonggengxueyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "峭壁谷",
+            "waypoint_code": "[&BKUKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "qiaobigu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "瓦比领域",
+            "waypoint_code": "[&BNAKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "wabilingyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "赛伯辛",
+            "waypoint_code": "[&BNAKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "saiboxin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "魂都",
+            "waypoint_code": "[&BEoKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "瓦比领域",
+            "waypoint_pinyin": "hundu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "征兆之影",
+            "waypoint_code": "[&BFMKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊伦河湾",
+            "waypoint_pinyin": "zhengzhaozhiying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "伊伦河湾",
+            "waypoint_code": "[&BCgKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊伦河湾",
+            "waypoint_pinyin": "yilunhewan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奥利沙的绿洲营地",
+            "waypoint_code": "[&BCgKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊伦河湾",
+            "waypoint_pinyin": "aolishadelüzhouyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "飞鱼农场",
+            "waypoint_code": "[&BGcKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "伊伦河湾",
+            "waypoint_pinyin": "feiyunongchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沙漠胡狼跑道",
+            "waypoint_code": "[&BHcKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "shamohulangpaodao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荒芜之地",
+            "waypoint_code": "[&BHMKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "huangwuzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灾厄师",
+            "waypoint_code": "[&BHMKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "zaieshi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "约科王国",
+            "waypoint_code": "[&BAsKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "yuekewangguo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "被遗忘者洞穴",
+            "waypoint_code": "[&BMEKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "beiyiwangzhedongxue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "黑暗之地",
+            "waypoint_code": "[&BKMKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "heianzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "骨岸村",
+            "waypoint_code": "[&BNwKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "荒芜之地",
+            "waypoint_pinyin": "guancun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "亮水",
+            "waypoint_code": "[&BJEKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "liangshui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "废弃洞穴",
+            "waypoint_code": "[&BKQKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "feiqidongxue",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "沙漠高地",
+            "waypoint_code": "[&BGsKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "shamogaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "马卡利哨所",
+            "waypoint_code": "[&BGsKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "makalishaosuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "罗姆德栅栏",
+            "waypoint_code": "[&BGoKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "luomudezhalan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "跳高牧场",
+            "waypoint_code": "[&BJ0KAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "沙漠高地",
+            "waypoint_pinyin": "tiaogaomuchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "命运峡谷",
+            "waypoint_code": "[&BJMKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "水晶绿洲",
+            "waypoint_pinyin": "mingyunxiagu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "克米尔神殿",
+            "waypoint_code": "[&BEAKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "水晶绿洲",
+            "waypoint_pinyin": "kemiershendian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "水晶绿洲",
+            "waypoint_code": "[&BLsKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "水晶绿洲",
+            "waypoint_pinyin": "shuijinglvzhou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "安努",
+            "waypoint_code": "[&BLsKAAA=]",
+            "map_area": "水晶沙漠",
+            "map_name": "水晶绿洲",
+            "waypoint_pinyin": "annu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "迷暗堡垒",
+            "waypoint_code": "[&BEcOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "mianbaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "知识堡垒",
+            "waypoint_code": "[&BEIOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "zhishibaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "平衡堡垒",
+            "waypoint_code": "[&BD0OAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "pinghengbaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "自然堡垒",
+            "waypoint_code": "[&BDQOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "ziranbaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿姆尼塔斯",
+            "waypoint_code": "[&BAoOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "amunitasi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "天界堡垒",
+            "waypoint_code": "[&BAoOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "tianjiebaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "力量堡垒",
+            "waypoint_code": "[&BNMNAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "阿姆尼塔斯",
+            "waypoint_pinyin": "liliangbaolei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "观测营地",
+            "waypoint_code": "[&BEYOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "guanceyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "红隼会的誓言",
+            "waypoint_code": "[&BD8OAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "hongsunhuideshiyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "天空哨站群岛",
+            "waypoint_code": "[&BCsOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "tiankongshaozhanqundao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "远古灯塔",
+            "waypoint_code": "[&BCsOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "yuangudengta",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "格伦霍夫难民营",
+            "waypoint_code": "[&BBUOAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "gelunhuofunanminying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "星界圣盾营地",
+            "waypoint_code": "[&BA4OAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "xingjieshengdunyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "拉塔新城大道",
+            "waypoint_code": "[&BOANAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "lataxinchengdadao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卓克纳之光",
+            "waypoint_code": "[&BL4NAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "天空哨站群岛",
+            "waypoint_pinyin": "zhuokenazhiguang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巫师塔",
+            "waypoint_code": "[&BB8OAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "巫师塔",
+            "waypoint_pinyin": "wushita",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "高塔庭院",
+            "waypoint_code": "[&BB8OAAA=]",
+            "map_area": "泰瑞亚天空",
+            "map_name": "巫师塔",
+            "waypoint_pinyin": "gaotatingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雨森北",
+            "waypoint_code": "[&BHIMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雨森海岸",
+            "waypoint_pinyin": "yusenbei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "前线营地",
+            "waypoint_code": "[&BHIMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雨森海岸",
+            "waypoint_pinyin": "qianxianyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "静水传声",
+            "waypoint_code": "[&BDkMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "波卓拉边境",
+            "waypoint_pinyin": "jingshuichuansheng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雨森南",
+            "waypoint_code": "[&BGQMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雨森海岸",
+            "waypoint_pinyin": "yusennan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雨森海岸",
+            "waypoint_code": "[&BGQMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雨森海岸",
+            "waypoint_pinyin": "yusenhaian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "基地营地",
+            "waypoint_code": "[&BGQMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雨森海岸",
+            "waypoint_pinyin": "jidiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "北方之眼",
+            "waypoint_code": "[&BAkMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "北方之眼",
+            "waypoint_pinyin": "beifangzhiyan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "波卓拉边境",
+            "waypoint_code": "[&BCcMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "波卓拉边境",
+            "waypoint_pinyin": "bozhuolabianjing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "卓拉要塞",
+            "waypoint_code": "[&BCcMAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "波卓拉边境",
+            "waypoint_pinyin": "zhuolayaosai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "革命之心",
+            "waypoint_code": "[&BKYLAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雷云高峰",
+            "waypoint_pinyin": "gemingzhixin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "系泊处",
+            "waypoint_code": "[&BLoLAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雷云高峰",
+            "waypoint_pinyin": "xibochu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雷云高峰",
+            "waypoint_code": "[&BLsLAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雷云高峰",
+            "waypoint_pinyin": "leiyungaofeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "历史终结",
+            "waypoint_code": "[&BLsLAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雷云高峰",
+            "waypoint_pinyin": "lishizhongjie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "了望甲板",
+            "waypoint_code": "[&BLkLAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "雷云高峰",
+            "waypoint_pinyin": "lewangjiaban",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "克达之拥",
+            "waypoint_code": "[&BIEJAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "酷寒前线",
+            "waypoint_pinyin": "kedazhiyong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "挖果子",
+            "waypoint_code": "[&BH0JAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "酷寒前线",
+            "waypoint_pinyin": "waguozi",
+            "tips": "有"
+        },
+        {
+            "waypoint_name": "酷寒前线",
+            "waypoint_code": "[&BH0JAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "酷寒前线",
+            "waypoint_pinyin": "kuhanqianxian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "悲伤之蚀",
+            "waypoint_code": "[&BH0JAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "酷寒前线",
+            "waypoint_pinyin": "beishangzhishi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "上层露台",
+            "waypoint_code": "[&BAgFAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "shangcenglutai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "东部哨站",
+            "waypoint_code": "[&BI0DAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "dongbushaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "传说",
+            "waypoint_code": "[&BIwDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "chuanshuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "熊灵",
+            "waypoint_code": "[&BIkDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "xiongling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鸦灵",
+            "waypoint_code": "[&BIgDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "yaling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "避难岩地",
+            "waypoint_code": "[&BIsDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "binanyandi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "狼灵",
+            "waypoint_code": "[&BIoDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "langling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "全力之核",
+            "waypoint_code": "[&BIUDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "quanlizhihe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "豹灵",
+            "waypoint_code": "[&BIcDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "baoling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "霍布雷克",
+            "waypoint_code": "[&BIYDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "huobuleike",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "商贸集市",
+            "waypoint_code": "[&BIYDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "shangmaojishi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "英雄罗盘",
+            "waypoint_code": "[&BJADAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "yingxiongluopan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南部哨站",
+            "waypoint_code": "[&BI4DAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "nanbushaozhan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "皮塔",
+            "waypoint_code": "[&BI8DAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "pita",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "大酒馆",
+            "waypoint_code": "[&BNUDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霍布雷克",
+            "waypoint_pinyin": "dajiuguan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "瓦斯湖",
+            "waypoint_code": "[&BMADAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "wasihu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "安格瓦藏宝地",
+            "waypoint_code": "[&BP8GAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "angewacangbaodi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "尼奥尔德山庄",
+            "waypoint_code": "[&BL0AAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "niaoerdeshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "流亡",
+            "waypoint_code": "[&BLwAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "liuwang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "漂流雪境",
+            "waypoint_code": "[&BLkAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "piaoliuxuejing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雪落避难所",
+            "waypoint_code": "[&BLkAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "xueluobinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "铁瀑湖",
+            "waypoint_code": "[&BLgAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "tiepuhu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "托斯德山庄",
+            "waypoint_code": "[&BLsAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "tuosideshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "炽天使先驱",
+            "waypoint_code": "[&BLoAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "chitianshixianqu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "天道避难所",
+            "waypoint_code": "[&BLUAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "tiandaobinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "罗纳",
+            "waypoint_code": "[&BLQAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "luona",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "学者之角",
+            "waypoint_code": "[&BLcAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "xuezhezhijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "失独之悲",
+            "waypoint_code": "[&BLYAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "shiduzhibei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰封之地",
+            "waypoint_code": "[&BL8DAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "bingfengzhidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯卡顿",
+            "waypoint_code": "[&BLMAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "sikadun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "掠夺者",
+            "waypoint_code": "[&BMAAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "lüeduozhe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "枭灵",
+            "waypoint_code": "[&BMEAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "xiaoling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "索德海姆山庄",
+            "waypoint_code": "[&BL4AAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "suodehaimushanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雪鹰栖所",
+            "waypoint_code": "[&BL8AAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "xueyingqisuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "伯达戈山庄",
+            "waypoint_code": "[&BMIAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "漂流雪境",
+            "waypoint_pinyin": "bodageshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德拉克",
+            "waypoint_code": "[&BIYCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "delake",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "牦牛拐角",
+            "waypoint_code": "[&BIQCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "maoniuguaijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "闪耀蓝冰",
+            "waypoint_code": "[&BIUCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "shanyaolanbing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "山极峰",
+            "waypoint_code": "[&BIICAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "shanjifeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "脊石营地",
+            "waypoint_code": "[&BIMCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "jishiyingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "双环村",
+            "waypoint_code": "[&BIACAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "shuanghuancun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "远空山庄",
+            "waypoint_code": "[&BIECAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "yuankongshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "迪莫提克",
+            "waypoint_code": "[&BH8CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "dimotike",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "浮冰",
+            "waypoint_code": "[&BH4CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "fubing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "警戒",
+            "waypoint_code": "[&BH0CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "jingjie",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "霜谷之音",
+            "waypoint_code": "[&BHwCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "shuangguzhiyin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "绝望泥潭",
+            "waypoint_code": "[&BHwCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "juewangnitan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "星空小径",
+            "waypoint_code": "[&BHsCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "xingkongxiaojing",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "地震",
+            "waypoint_code": "[&BHoCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "dizhen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "格洛奈",
+            "waypoint_code": "[&BHkCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "geluonai",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "海浪之誉",
+            "waypoint_code": "[&BEMFAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "hailangzhiyu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿鲁顿",
+            "waypoint_code": "[&BHgCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "霜谷之音",
+            "waypoint_pinyin": "aludun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "86号基地",
+            "waypoint_code": "[&BE4CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "86haojidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奥格德",
+            "waypoint_code": "[&BE0CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "aogede",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "帷幔城垛",
+            "waypoint_code": "[&BEwCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "weimanchengduo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "毒蛇",
+            "waypoint_code": "[&BEUCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "dushe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "塔鲁斯",
+            "waypoint_code": "[&BEQCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "talusi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "游丝",
+            "waypoint_code": "[&BEcCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "yousi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奥卡利诺",
+            "waypoint_code": "[&BEYCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "aokalinuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "陆行鸟禁湖",
+            "waypoint_code": "[&BEkCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "luxingniaojinhu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鳞爪湖滨",
+            "waypoint_code": "[&BEgCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "linzhaohubin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "林线瀑布",
+            "waypoint_code": "[&BEYEAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "linxianpubu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "斯洛卡尔",
+            "waypoint_code": "[&BEYEAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "siluokaer",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "兰卡遗址",
+            "waypoint_code": "[&BFQCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "lankayizhi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "康考迪亚",
+            "waypoint_code": "[&BFUCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "kangkaodiya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "柔水河",
+            "waypoint_code": "[&BFACAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "roushuihe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "疾旋环流",
+            "waypoint_code": "[&BEsCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "jixuanhuanliu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "芦荟林",
+            "waypoint_code": "[&BFECAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "luhuilin",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "科隆格",
+            "waypoint_code": "[&BFICAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "kelongge",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "钢铁之幕",
+            "waypoint_code": "[&BFMCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "gangtiezhimu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "鲜血托领地",
+            "waypoint_code": "[&BEoCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "xianxuetuolingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "净纸",
+            "waypoint_code": "[&BE8CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "林线瀑布",
+            "waypoint_pinyin": "jingzhi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈温特",
+            "waypoint_code": "[&BHgBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "hawente",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "十字路避难所",
+            "waypoint_code": "[&BHkBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "shizilubinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泰戈恩",
+            "waypoint_code": "[&BHYBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "taigeen",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "泽里奇温泉",
+            "waypoint_code": "[&BHcBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "zeliqiwenquan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "号令",
+            "waypoint_code": "[&BHQBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "haoling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "暗壑崖",
+            "waypoint_code": "[&BHUBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "anheya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "弃儿",
+            "waypoint_code": "[&BHIBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "qier",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "英雄大会",
+            "waypoint_code": "[&BHMBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "yingxiongdahui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "晨曦",
+            "waypoint_code": "[&BHoBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "chenxi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "穴居人海湾",
+            "waypoint_code": "[&BMMDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "xuejurenhaiwan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "科伦纳克的山庄",
+            "waypoint_code": "[&BMIDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "kelunnakedeshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "隐龙洞窟",
+            "waypoint_code": "[&BMEDAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "yinlongdongku",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "奥森福德",
+            "waypoint_code": "[&BAEEAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "aosenfude",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "文德里克的山庄",
+            "waypoint_code": "[&BH4BAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "wendelikedeshanzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "旅者丘陵",
+            "waypoint_code": "[&BH0BAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "lvzheqiuling",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "双峰避难所",
+            "waypoint_code": "[&BH0BAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "shuangfengbinansuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "荒僻山谷",
+            "waypoint_code": "[&BHwBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "huangpishangu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "石牦牛通道",
+            "waypoint_code": "[&BHsBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "旅者丘陵",
+            "waypoint_pinyin": "shimaoniutongdao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "裂雾",
+            "waypoint_code": "[&BJkBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "liewu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "范齐尔营地",
+            "waypoint_code": "[&BOUAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "fanqieryingdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "瀑布桥",
+            "waypoint_code": "[&BFQGAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "pubuqiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "阿弗戈",
+            "waypoint_code": "[&BFMGAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "afuge",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰魔",
+            "waypoint_code": "[&BFEGAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "bingmo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "古特拉的农庄",
+            "waypoint_code": "[&BJYBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "guteladenongzhuang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "罗纳通道",
+            "waypoint_code": "[&BFIGAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "luonatongdao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "避难峰",
+            "waypoint_code": "[&BFIGAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "binanfeng",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "石墟",
+            "waypoint_code": "[&BJcBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "shixu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "德曼修会",
+            "waypoint_code": "[&BOkAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "demanxiuhui",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "错湖",
+            "waypoint_code": "[&BOgAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "cuohu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "融冬",
+            "waypoint_code": "[&BOcAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "rongdong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "恶魔血口",
+            "waypoint_code": "[&BOYAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "emoxuekou",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "南托",
+            "waypoint_code": "[&BOwAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "nantuo",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "雷鸣之角",
+            "waypoint_code": "[&BOsAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "leimingzhijiao",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哀恸",
+            "waypoint_code": "[&BOoAAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "aitong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "错河",
+            "waypoint_code": "[&BDEHAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "cuohe",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "尖峰围地",
+            "waypoint_code": "[&BJgBAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "罗纳通道",
+            "waypoint_pinyin": "jianfengweidi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "特弗伦",
+            "waypoint_code": "[&BGQCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "tefulun",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈弗伦盆地",
+            "waypoint_code": "[&BGMCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "hafulunpendi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "冰原",
+            "waypoint_code": "[&BGICAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "bingyuan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "苦难",
+            "waypoint_code": "[&BFYCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "kunan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "花岗岩城垒",
+            "waypoint_code": "[&BO4EAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "huagangyanchenglei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "霜地",
+            "waypoint_code": "[&BFcCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "shuangdi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "悲伤之拥",
+            "waypoint_code": "[&BD8FAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "beishangzhiyong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "飞龙血湖",
+            "waypoint_code": "[&BGUCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "feilongxuehu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "杜修",
+            "waypoint_code": "[&BFgCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "duxiu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "七棵松",
+            "waypoint_code": "[&BFkCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "qikesong",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "诺托故障",
+            "waypoint_code": "[&BGACAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "nuotuoguzhang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "山尾",
+            "waypoint_code": "[&BGECAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "shanwei",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "灰白之路",
+            "waypoint_code": "[&BFoCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "huibaizhilu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "钢铁之臂",
+            "waypoint_code": "[&BFsCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "gangtiezhibi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "掘洞悬崖",
+            "waypoint_code": "[&BF4CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "juedongxuanya",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "聚地试验场",
+            "waypoint_code": "[&BF4CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "judishiyanchang",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "广漠旷野",
+            "waypoint_code": "[&BF8CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "guangmokuangye",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "托兰山谷",
+            "waypoint_code": "[&BFwCAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "tuolanshangu",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "哈斯达伦聚地",
+            "waypoint_code": "[&BF0CAAA=]",
+            "map_area": "席瓦雪山",
+            "map_name": "掘洞悬崖",
+            "waypoint_pinyin": "hasidalunjudi",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "充能石英",
+            "waypoint_code": "[&BHoHAAA=]、[&BJMKAAA=]，挖完去[&BPEAAAA=]充能",
+            "map_area": "无",
+            "map_name": "无",
+            "waypoint_pinyin": "chongnengshiying",
+            "tips": "有"
+        },
+        {
+            "waypoint_name": "远古洞窟",
+            "waypoint_code": "[&BNUJAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙之山",
+            "waypoint_pinyin": "yuangudongku",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "异教徒据点",
+            "waypoint_code": "[&BM0JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙之山",
+            "waypoint_pinyin": "yijiaotujudian",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "水手码头",
+            "waypoint_code": "[&BL0JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙之山",
+            "waypoint_pinyin": "chongnengshiying",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "巨龙之山",
+            "waypoint_code": "[&BL0JAAA=]",
+            "map_area": "迈古玛腹地",
+            "map_name": "巨龙之山",
+            "waypoint_pinyin": "julongzhishan",
+            "tips": "无"
+        },
+        {
+            "waypoint_name": "第三季",
+            "waypoint_code": "血石沼泽[&BEsJAAA=]、余烬海湾[&BF8JAAA=]、酷寒前线[&BH0JAAA=]、多里克湖[&BK0JAAA=]、巨龙之山[&BL0JAAA=]、海妖平台[&BO8JAAA=]",
+            "map_area": "无",
+            "map_name": "无",
+            "waypoint_pinyin": "disanji",
+            "tips": "有"
+        },
+        {
+            "waypoint_name": "第四季",
+            "waypoint_code": "伊斯坦领域[&BPoKAAA=]、沙掠群岛[&BEMLAAA=]、克南领域[&BFcLAAA=]、雷云高峰[&BLsLAAA=]、坠龙之地[&BN4LAAA=]",
+            "map_area": "无",
+            "map_name": "无",
+            "waypoint_pinyin": "disiji",
+            "tips": "有"
+        }
+    ]
+}
